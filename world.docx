@@ -3,7 +3,13 @@ yes
 This Change from Ano Branch
 const hello world;
 
+<<<<<<< HEAD
 This Change from Ano Branch
 
 This change from the main
 
+=======
+This change from the main
+
+this anothor from the main
+>>>>>>> main
