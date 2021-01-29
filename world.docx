@@ -1,7 +1,15 @@
 This is th world file;
 yes
 const hello world;
+<<<<<<< HEAD
 
 This change from the main
 
 this anothor from the main
+=======
+
+This Change from Ano Branch
+
+This change from the main
+
+>>>>>>> ae4daa5 (message2)
